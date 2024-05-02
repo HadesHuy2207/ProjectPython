@@ -1,0 +1,6 @@
+-- Cài các package cần thiết
+pip install -r requirements.txt
+
+-- Select Kernel
+venv
+
